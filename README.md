@@ -33,8 +33,8 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+   <a href="https://dart.dev/" target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%231572B6.svg?logo=dart&logoColor=white">
   </a>
   &emsp;
 &emsp; 
