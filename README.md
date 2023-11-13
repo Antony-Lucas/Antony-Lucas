@@ -98,7 +98,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
+## 📊 Github Stats
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -112,13 +112,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
 	<a href="https://github.com/Antony-Lucas"><img alt="Antony's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-Lucas&custom_title=Antony%20Lucas's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-</details>
 
 <br/>
 
