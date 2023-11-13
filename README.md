@@ -100,8 +100,7 @@
 
 ## 📊 Github Stats (Expand to View)
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/Antony-Lucas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Antony-Lucas&show_icons=true&locale=en&theme=algolia" alt="Antony-Lucas" height="192px"/></a>
@@ -112,7 +111,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
