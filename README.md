@@ -5,11 +5,11 @@
 <hr/>
 <h4 align="center">Student of information systems in UFRA and I am a systems analyst and developer at KnowBI. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Antony-Lucas&label=Antony's%20Profile%20Views%20&color=dc143c&style=plastic" alt="Antony" /> </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Antony-Lucas&theme=algolia" alt="candida18" /></p>
 
 ## 🛠️ My Skills
 
