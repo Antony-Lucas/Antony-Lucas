@@ -90,6 +90,8 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%231572B6.svg?logo=docker&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/Intellij-00000F?style=flat&logo=Intellijidea&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/github-00000F?style=flat&logo=github&logoColor=white"></a>
  &emsp; 
 </p>
 
